@@ -18,6 +18,9 @@
     <ClCompile Include="main.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
+    <ClCompile Include="PengRobinson.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PengRobinson.h">
